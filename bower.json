@@ -1,0 +1,28 @@
+{
+  "name": "roof_and_floor_assignment",
+  "authors": [
+    "nayakashu <ashugodhoom@gmail.com>"
+  ],
+  "description": "Assignment for Roof And Floor Front-End Developer position",
+  "main": "index.html",
+  "keywords": [
+    "RoofAndFloor",
+    "Carousel",
+    "Assignment",
+    "Front",
+    "End",
+    "Developer"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
